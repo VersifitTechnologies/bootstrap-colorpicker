@@ -1,0 +1,17 @@
+{
+  "name": "mjaalnir-bootstrap-colorpicker",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.0.1"
+  },
+  "homepage": "https://github.com/seiyria/bootstrap-colorpicker",
+  "_release": "f7a7029ac5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f7a7029ac594b9f1e3f6d72fbdadb33cae416bdf"
+  },
+  "_source": "https://github.com/seiyria/bootstrap-colorpicker.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/seiyria/bootstrap-colorpicker.git"
+}
